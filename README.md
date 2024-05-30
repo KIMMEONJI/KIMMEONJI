@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20Dohyun's%20Github&fontSize=60&color=#d4e157)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome! &desc=This%20is%20Dohyun's%20github.%20&fontSize=90&descSize=30&fontColor=ffffff&fontAlignY=40)
 
 <div align="center">
 ## 👋 Hi, I’m Dohyun kim!
@@ -17,17 +17,17 @@ This is a record of my study to develop into a front-end and back-end developer.
 
 <br><br>
 ## 💡 About My Study
-![KIMMEONJI's GitHub stats](https://github-readme-stats.vercel.app/api?username=KIMMEOUNJI&show_icons=true&theme=radical)
+![KIMMEONJI's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehgus4651@gmail.com&show_icons=true&theme=radical)
 
 <br><br>
+
 ## 📩 About Me
-<div>
- <a href="mailto:ehgus4651@gmail.com">
+<a href="mailto:ehgus4651@gmail.com">
     <img
       src="https://img.shields.io/badge/ehgus4651@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
+ </a>
  <br>
- <a href="https://velog.io/@eunjeong"><https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white/></a>
+ <a href="https://www.notion.so/Today-I-Learned-e77288ffbbbc45fcb865f934b9d52b72?pvs=4"><https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white/></a>
 </div>
 
 
