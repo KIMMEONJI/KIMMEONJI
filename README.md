@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
 ## 👋 Hi, I’m Dohyun kim!
 
 This is a record of my study to develop into a front-end and back-end developer.
@@ -14,7 +16,7 @@ This is a record of my study to develop into a front-end and back-end developer.
 
 <br><br>
 ## 📩 Contact
-<div align="center">
+<div>
  <a href="mailto:ehgus4651@gmail.com">
     <img
       src="https://img.shields.io/badge/ehgus4651@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
