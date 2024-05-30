@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome!&desc=This%20is%20Dohyun's%20github.%20&fontSize=90&descSize=30&fontColor=ffffff&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!&desc=This%20is%20Dohyun's%20github.%20&fontSize=90&descSize=30&fontColor=ffffff&fontAlignY=40)
 
 <div align="center">
 ## 👋 Hi, I’m Dohyun kim!
