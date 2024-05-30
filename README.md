@@ -19,7 +19,7 @@ This is a record of my study to develop into a front-end and back-end developer.
 
 <br><br>
 ## 💡 About My Study
-![KIMMEONJI's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehgus4651@gmail.com&show_icons=true&theme=radical)
+![KIMMEONJI's GitHub stats](https://github-readme-stats.vercel.app/api?username=KIMMEONJI&show_icons=true&theme=radical)
 
 <br><br>
 
@@ -27,9 +27,11 @@ This is a record of my study to develop into a front-end and back-end developer.
 <a href="mailto:ehgus4651@gmail.com">
     <img
       src="https://img.shields.io/badge/ehgus4651@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
- </a>
- <br>
- <a href="https://www.notion.so/Today-I-Learned-e77288ffbbbc45fcb865f934b9d52b72?pvs=4"><https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white/></a>
+</a>
+<br>
+<a href="https://www.notion.so/Today-I-Learned-e77288ffbbbc45fcb865f934b9d52b72?pvs=4">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
+    
 </div>
 
 
