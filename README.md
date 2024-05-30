@@ -1,7 +1,7 @@
-<div align="center">
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!&desc=This%20is%20Dohyun's%20github.%20&fontSize=90&descSize=30&fontColor=ffffff&fontAlignY=40)
 
-<br><br>
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&width=auto&section=header&text=Welcome!&desc=This%20is%20Dohyun's%20github.%20&fontSize=90&descSize=30&fontColor=ffffff&fontAlignY=40)
+
+<div align="center">
 ## 👋 Hi, I’m Dohyun kim!
 This is a record of my study to develop into a front-end and back-end developer.
 
